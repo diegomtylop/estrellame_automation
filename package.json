@@ -1,0 +1,14 @@
+{
+  "name": "estrellame",
+  "version": "1.0.0",
+  "description": "Test automatizados para la aplicación estrellame",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
