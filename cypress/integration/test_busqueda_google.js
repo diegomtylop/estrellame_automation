@@ -1,5 +1,5 @@
 describe('Mi primera prueba', function(){
-  it('No hace mucho que digamos', function(){
+  it('Realiza una búsqueda en google', function(){
     //Cómo navegar a una dirección web
     cy.visit('http://www.google.com');
 
@@ -7,6 +7,9 @@ describe('Mi primera prueba', function(){
     cy.get('input[name="q"]').click();
 
     //Cómo escribir en un campo de texto
-    cy.get('input[name="q"]').type("WTF\n");
+    cy.get('input[name="q"]').type("El navegador está poseído\n");
+
+    //Cómo validar que un elemento esté visible
+    cy.get('.logo').should('be.visible');
   })
 })
