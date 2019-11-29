@@ -1,6 +1,8 @@
 # estrellame_automation
 
-Proyecto semillero alianza futuro - pruebas automatizadas
+Framework básico de pruebas automatizadas para la aplicación "estrellame" desarrollada durante el semillero alianza futuro con el apoyo de Globant Colombia.
+
+URL del repo con el código fuente de la aplicación: [https://github.com/serdnah2/estrellame](https://github.com/serdnah2/estrellame "https://github.com/serdnah2/estrellame")
 
 
 # Prerrequisitos
