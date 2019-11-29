@@ -1,4 +1,4 @@
-# estrellame_automation
+# Pruebas automatizadas "Estrellame"
 
 Framework básico de pruebas automatizadas para la aplicación "estrellame" desarrollada durante el semillero alianza futuro con el apoyo de Globant Colombia.
 
