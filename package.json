@@ -1,12 +1,11 @@
 {
-  "name": "estrellame",
+  "name": "estrellame_automation",
   "version": "1.0.0",
-  "description": "Test automatizados para la aplicación estrellame",
-  "main": "index.js",
+  "description": "Pruebas automatizadas para la aplicación estrellame, desarrollada para el programa alianza futuro con el apoyo de Globant Colombia",
   "scripts": {
     "cypress:open": "cypress open"
   },
-  "author": "",
+  "author": "Diego Montoya <d.montoya@globant.com>",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^2.1.0"
