@@ -11,13 +11,13 @@ Tener instalado cypress. Para validar si está instalado puedes usar el siguient
 
 `cypress -v`
 
-Si se muestra un mensaje como el siguiente significa que está instalado y puedes abrirlo siguiente las instrucciones de la sección "Ejecución", de lo contrario continua con la sección "Instalación" para instalarlo en tu equipo
+Si se muestra un mensaje cómo el siguiente significa que está instalado y puedes abrirlo siguiendo las instrucciones de la sección "Ejecución", de lo contrario continua con la sección "Instalación" para instalarlo en tu equipo
 
 `Cypress package version: 3.7.0`
 
 # Ejecución
 
-Para ejecutar las pruebas debes abrir cypres escribiendo el siguiente comando
+Para ejecutar las pruebas debes abrir cypress escribiendo el siguiente comando
 
 `cypress open`
 
